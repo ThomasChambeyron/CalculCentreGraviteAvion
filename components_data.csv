@@ -1,0 +1,6 @@
+component,position_x,position_y,position_z,poids
+empennage,10.0,0,1.0,300
+ailes,5.5,0,0.0,500
+moteurs,5.0,0,0.0,200
+fuselage,5.0,0,0.5,1000
+train_atterrissage,4.0,0,-1.0,100
